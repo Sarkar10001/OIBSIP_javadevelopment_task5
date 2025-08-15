@@ -133,14 +133,8 @@ Book Issued: Java Programming
 ---
 
 🔮 Future Improvements
+updated soon
 
-Store books in a file or database for persistence.
-
-Track issued books per user.
-
-Add due dates and fines for late returns.
-
-Create a GUI version for better usability.
 
 
 
